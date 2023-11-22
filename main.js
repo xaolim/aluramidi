@@ -1,10 +1,10 @@
-function tocaSomPom() {
+function TocaSomPom() {
     document.querySelector('#som_tecla_pom').play();
 }
 
-document.querySelector('.tecla_pom').onclick=tocaSomPom;
+document.querySelector('.tecla_pom').onclick=TocaSomPom;
 
-function tocaSomClap() {
+function TocaSomClap() {
     document.querySelector('#som_tecla_clap').play();
 }
 
